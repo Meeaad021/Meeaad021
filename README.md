@@ -14,5 +14,5 @@ Projects
 Get in Touch
 LinkedIn: www.linkedin.com/in/meeaadbharoochi
 Email: meeaadbharoochi@gmail.com
-Portfolio: Your Portfolio Website
+
 Feel free to explore, fork, and contribute! I'm open to collaborations and feedback. Thank you for visiting! 🚀
