@@ -8,21 +8,11 @@ Skills & Superpowers
 🐍 Python | 🛠️ Selenium | 🗄️ MySQL | 🖥️ C# | 🌐 API Integration | 🤖 JavaScript | 📊 Microsoft Excel Data Analysis | ⚙️ Agile Methodologies | 🔄 Software Development Life Cycle | 📈 Microsoft Power BI | 🤖 Microsoft Power Automate
 
 Projects
-Project 1
-Description: Brief description of what the project does.
-Tech Stack: List of technologies or languages used.
-Demo: Link to a live demo or deployment (if available).
-Repository: Link to the project repository.
-Project 2
-Description: Brief description of what the project does.
-Tech Stack: List of technologies or languages used.
-Demo: Link to a live demo or deployment (if available).
-Repository: Link to the project repository.
-What You'll Find Here
-[Project Name]: Description of the project and its significance.
-[Project Name]: Description of the project and its significance.
+
+[Website-Selenium-Scraper]: This Python script automates the process of retrieving product information for products from the [brands.silo.co.za] website and populating an Excel file with the gathered data.
+
 Get in Touch
-LinkedIn: Your LinkedIn Profile
-Email: your@email.com
+LinkedIn: www.linkedin.com/in/meeaadbharoochi
+Email: meeaadbharoochi@gmail.com
 Portfolio: Your Portfolio Website
 Feel free to explore, fork, and contribute! I'm open to collaborations and feedback. Thank you for visiting! 🚀
